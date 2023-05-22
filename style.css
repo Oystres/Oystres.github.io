@@ -285,6 +285,7 @@ span{
   margin-top: 30px;
   margin-bottom: 15px;
   margin-left: 15px;
+  word-break: break-all;
 
 }
 
@@ -313,14 +314,14 @@ span{
 
 .time-count__val {
 	min-width: 81px;
-	font-weight: 500;
+	font-weight: 300;
 	font-size: 70px;
 	line-height: 82px;
 	color: #fff;
 }
 
 .time-count__separator {
-	font-weight: 500;
+	font-weight: 300;
 	font-size: 48px;
 	line-height: 74px;
 	text-align: center;
@@ -330,7 +331,7 @@ span{
 
 .time-count__text {
 	font-family: Roboto Slab;
-	font-weight: 500;
+	font-weight: 300;
 	font-size: 14px;
 	line-height: 20px;
 	color: #fff;
